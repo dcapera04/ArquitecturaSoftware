@@ -4,16 +4,10 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-<<<<<<< HEAD
-		<Model Expanded="Yes" ID="{E7526447-FB7F-4E6C-80D6-5F4D2A19A085}" Loaded="No" Name="EnterpriseArchitectureModel_1" Type="{5215C79E-A9A1-4738-A627-36DA432EFE29}" URL="EnterpriseArchitectureModel_1.eam"/>
-		<Model Expanded="Yes" ID="{1C9157AB-CE1D-4CC4-A2FC-10BFEC26E690}" Loaded="No" Name="BPMN Model_1" Type="{3D3C409C-B60D-430E-A1C4-B880653AC634}" URL="../../../SEMESTRE VIII/Metodologia_Josefina/BPMN_Elephats.bpm"/>
-		<Model ID="{410FC661-903B-43D7-A107-D002965CD4A9}" Name="Waze" Selected="Yes" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="Waze.prj"/>
-		<Model Expanded="Yes" ID="{218AB572-2EA3-4315-8E89-7B374F3FA4E2}" Name="Arquitectura Solucion Caso Waze" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../Pablo Urrea/ARQSOFT_UCC/Arquitectura Solucion Caso Waze/Arquitectura Solucion Caso Waze.prj"/>
-		<Model Expanded="Yes" ID="{89551643-7956-4BD5-B3AD-340418D3F565}" Name="Caso de Uso WAZE" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../Pablo Urrea/ARQSOFT_UCC/Arquitectura Solucion Caso Waze/Caso de Uso WAZE.oom"/>
-		<Model Expanded="Yes" ID="{1C78551B-D43A-4D00-B361-03BB7F19967B}" Name="WAZE" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../ARQSOFT_UCC/WAZE/WAZE.prj"/>
-=======
-		<Model Expanded="Yes" ID="{E7526447-FB7F-4E6C-80D6-5F4D2A19A085}" Name="EnterpriseArchitectureModel_1" Type="{5215C79E-A9A1-4738-A627-36DA432EFE29}" URL="EnterpriseArchitectureModel_1.eam"/>
->>>>>>> parent of 7aadbc5... actualizacion 11:49am ajuste diagramas
+		<Model Expanded="Yes" ID="{410FC661-903B-43D7-A107-D002965CD4A9}" Name="Waze" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="Waze.prj"/>
+		<Model Expanded="Yes" ID="{218AB572-2EA3-4315-8E89-7B374F3FA4E2}" Loaded="No" Name="Arquitectura Solucion Caso Waze" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" URL="../../ARQSOFT_UCC-master/ARQSOFT_UCC-master/Arquitectura Solucion Caso Waze/Arquitectura Solucion Caso Waze.prj"/>
+		<Model Expanded="Yes" ID="{58B23505-999C-41C9-AD97-44CE40ECCD5A}" Loaded="No" Name="CASO WAZE" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../../ARQSOFT_UCC-master/ARQSOFT_UCC-master/Arquitectura Solucion Caso Waze/CASO WAZE.oom"/>
+		<Model ID="{89551643-7956-4BD5-B3AD-340418D3F565}" Loaded="No" Name="Caso de Uso WAZE" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="../../ARQSOFT_UCC-master/ARQSOFT_UCC-master/Arquitectura Solucion Caso Waze/Caso de Uso WAZE.oom"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
